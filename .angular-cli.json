@@ -5,7 +5,7 @@
   },
   "apps": [
     {
-      "root": "/",
+      "root": "/CV/",
       "outDir": "dist",
       "assets": [
         "assets",
