@@ -1,0 +1,18 @@
+.contribution {
+    background: #fdfdfd;
+    padding: 25px;
+}
+
+.con-info {
+    display:inline-flex;
+    height:50px;
+}
+
+.con-body {
+    margin-top: -15px;
+}
+
+.reply {
+    padding-left: 25px;
+    font-size: 80%;
+}
